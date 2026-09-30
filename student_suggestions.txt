@@ -1,1 +1,2 @@
 Lets work together on our website
+"cd" is the command used in the command-line interference to switch your current working directory.
